@@ -1,0 +1,19 @@
+# Environment & Secrets
+.env
+
+# Python & Virtual Environments
+__pycache__/
+*.pyc
+.venv/
+.venv312/
+
+# DBeaver & IDE Metadata
+.dbeaver/
+.project
+Scripts/
+
+# Raw & Large Datasets (>100MB GitHub Limit)
+diabetic_data.csv
+mtsamples.csv
+careshield_artifacts/final_secure_data.csv
+.project
